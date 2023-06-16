@@ -350,16 +350,16 @@ section .title::after{
     background: var(--cor-principal);
 }
 .skills .skills-content .right .html::before{
-    width: 93%;
+    width: 100%;
 }
 .skills .skills-content .right .css::before{
-    width: 85%;
+    width: 100%;
 }
 .skills .skills-content .right .js::before{
-    width: 87%;
+    width: 100%;
 }
 .skills .skills-content .right .php::before{
-    width: 77%;
+    width: 100%;
 }
 .skills .skills-content .right .mysql::before{
     width: 100%;
